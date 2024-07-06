@@ -1,2 +1,2 @@
-# Junt-monosTesis
-Merge branch 'main' of https://github.com/Chaosspanther/Junt-monosTesis
+# JuntemonosTesis
+Merge branch 'main' of https://github.com/Chaosspanther/JuntemonosTesis.git
